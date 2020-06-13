@@ -1,0 +1,21 @@
+FRAMEWORK EXPRESSS
+
+Stack lamp
+linux,apache,mysql,php
+
+MVC -- modelo vista controlador
+
+Inicializar npm init
+Correr el servidor comando node index.js
+Instalar EXPRESSS npm install express 
+
+Para no estar escribiendo todo el commando node index.js
+Nos vamos al archivo package.json donde dice scripts agregamos 
+otra instancia "start": "node index.js"
+
+
+//RUTAS 
+
+
+
+
